@@ -1,0 +1,21 @@
+Json file
+
+{
+"coord":{"lon":19.41,"lat":54.15},
+"weather":[{
+    "id":803,
+    "main":"Clouds",
+    "description":"broken clouds",
+    "icon":"04d"}],
+"base":"stations",
+"main":{"temp":294.5,"feels_like":296.66,"temp_min":292.15,"temp_max":295.37,"pressure":1011,"humidity":82},
+"visibility":10000,
+"wind":{"speed":1,"deg":0},
+"clouds":{"all":75},
+"dt":1591878040,
+"sys":{"type":1,"id":1696,"country":"PL","sunrise":1591841376,"sunset":1591902884},
+"timezone":7200,
+"id":3099759,
+"name":"Elblag",
+"cod":200
+}
